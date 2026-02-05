@@ -23,27 +23,10 @@ https://paginawebhernan-production.up.railway.app
 # Estructura del proyecto
 📁 PaginaWebHernan/
  ┣ 📁 documento-certificacion/
- ┃ ┗ Resolucion-011-2023-PRODUCE.pdf
  ┣ 📁 imágenes/
- ┃ ┣ capacitacion.jpeg
- ┃ ┣ capacitaciones.jpeg
- ┃ ┣ certificacion.jpeg
- ┃ ┣ certificacion1.jpeg
- ┃ ┣ estudiocarrusel.jpeg
- ┃ ┣ estudiocarrusel2.jpeg
- ┃ ┣ estudiocarrusel3.jpeg
- ┃ ┣ logoEmpresa.jpg
- ┃ ┣ monitoreo1.jpeg
- ┃ ┣ monitoreo1.png
- ┃ ┣ proyecto1.jpg
- ┃ ┣ proyecto2.jpeg
- ┃ ┣ proyecto3.jpeg
- ┃ ┣ proyecto3.jpg
- ┃ ┣ proyecto4.jpg
- ┃ ┣ supervisionambiental.jpeg
  ┣ 📄 estilos.css
  ┣ 📄 index.html
- ┣ 📄 package-lock.json
+ ┣ 📄 package.lock-json
  ┣ 📄 package.json
  ┣ 📄 script.js
  ┗ 📄 server.js
